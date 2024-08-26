@@ -14,7 +14,7 @@
 body {
   font-family: "DMSerif", verdana;
   background: url(./assets/img/sea.jpg) center/cover;
-  /* vh  = viewport height = %  */
+  /* vh  = viewport height = % +++++++ */
   min-height: 100vh;
 }
 
